@@ -1,0 +1,10 @@
+{
+  "name": "arcade-interface",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "build": "echo 'No build step defined'",
+    "test": "node test/index.js"
+  },
+  "devDependencies": {}
+}
